@@ -13,4 +13,5 @@ const ProfileHeader = () => {
   )
 }
 
-export default ProfileHeader;
+export default ProfileHeader
+

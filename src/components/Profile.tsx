@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfileHeader from "../components/ProfileHeader"
+import ProfileHeader from "./ProfileHeader"
 import "../styles/profile.css"
 import userImage from "../assets/teacher.jpeg"
 import { BiBook } from "react-icons/bi";
@@ -29,7 +29,7 @@ const Profile = () => {
             <div className="user-detail">
                 <img src={userImage} alt=""/>
                 <h3 className="username">Tamilarasi</h3>
-                <span className>Teacher</span>
+                <span className="username">Teacher</span>
             </div>
             <div className="user-courses">
                 {courses.map((coures) => (
