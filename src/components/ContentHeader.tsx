@@ -1,4 +1,3 @@
-import React from 'react'
 import { BiSearch } from "react-icons/bi";
 import { BiNotification } from "react-icons/bi";
 

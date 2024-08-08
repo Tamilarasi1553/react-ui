@@ -1,4 +1,3 @@
-import React from 'react'
 import { BiEdit } from "react-icons/bi";
 
 const ProfileHeader = () => {

@@ -1,4 +1,3 @@
-import React from 'react'
 import "../styles/teacherList.css"
 import Image1 from "../assets/teacher.jpeg";
 

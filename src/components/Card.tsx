@@ -1,4 +1,3 @@
-import React from 'react'
 import { BiLogoHtml5 } from "react-icons/bi";
 import { BiBuilding } from "react-icons/bi";
 import { BiLogoAndroid } from "react-icons/bi";

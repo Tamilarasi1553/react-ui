@@ -1,4 +1,3 @@
-import React from 'react'
 import { BiBookAlt } from "react-icons/bi";
 import { BiHome } from "react-icons/bi";
 import { MdAssignment } from "react-icons/md";

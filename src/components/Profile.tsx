@@ -1,4 +1,3 @@
-import React from 'react'
 import ProfileHeader from "./ProfileHeader"
 import "../styles/profile.css"
 import userImage from "../assets/teacher.jpeg"
